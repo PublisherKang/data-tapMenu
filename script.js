@@ -1,3 +1,5 @@
+//한페이지에 탭메뉴 여러개 있을때
+
 function tabEvent(wrap) {
   const wrapEle = document.querySelectorAll(wrap);
 
